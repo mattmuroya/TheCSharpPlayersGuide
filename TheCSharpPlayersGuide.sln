@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuntingTheManticore", "HuntingTheManticore\HuntingTheManticore.csproj", "{152467FD-A0BC-4B5C-BBAB-475DD7F2E730}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePoint", "ThePoint\ThePoint.csproj", "{9E5E6071-27C3-4597-8BBE-39A9BA17BA05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{152467FD-A0BC-4B5C-BBAB-475DD7F2E730}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{152467FD-A0BC-4B5C-BBAB-475DD7F2E730}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{152467FD-A0BC-4B5C-BBAB-475DD7F2E730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E5E6071-27C3-4597-8BBE-39A9BA17BA05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E5E6071-27C3-4597-8BBE-39A9BA17BA05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E5E6071-27C3-4597-8BBE-39A9BA17BA05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E5E6071-27C3-4597-8BBE-39A9BA17BA05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
