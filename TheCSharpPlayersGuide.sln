@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePoint", "ThePoint\ThePoi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheColor", "TheColor\TheColor.csproj", "{81BAFF45-B558-472C-A37B-940647106B8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheCard", "TheCard\TheCard.csproj", "{6B3E44F2-1DC1-4536-B086-1CD5B259D587}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{81BAFF45-B558-472C-A37B-940647106B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81BAFF45-B558-472C-A37B-940647106B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81BAFF45-B558-472C-A37B-940647106B8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B3E44F2-1DC1-4536-B086-1CD5B259D587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B3E44F2-1DC1-4536-B086-1CD5B259D587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B3E44F2-1DC1-4536-B086-1CD5B259D587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B3E44F2-1DC1-4536-B086-1CD5B259D587}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
