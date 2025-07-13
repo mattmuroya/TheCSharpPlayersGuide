@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuntingTheManticore", "Hunt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePoint", "ThePoint\ThePoint.csproj", "{9E5E6071-27C3-4597-8BBE-39A9BA17BA05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheColor", "TheColor\TheColor.csproj", "{81BAFF45-B558-472C-A37B-940647106B8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{9E5E6071-27C3-4597-8BBE-39A9BA17BA05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E5E6071-27C3-4597-8BBE-39A9BA17BA05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E5E6071-27C3-4597-8BBE-39A9BA17BA05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81BAFF45-B558-472C-A37B-940647106B8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81BAFF45-B558-472C-A37B-940647106B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81BAFF45-B558-472C-A37B-940647106B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81BAFF45-B558-472C-A37B-940647106B8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
