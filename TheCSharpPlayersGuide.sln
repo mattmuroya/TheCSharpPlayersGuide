@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheCard", "TheCard\TheCard.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLockedDoor", "TheLockedDoor\TheLockedDoor.csproj", "{22358045-7D3A-4A98-903A-A0B078244F99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePasswordValidator", "ThePasswordValidator\ThePasswordValidator.csproj", "{3A51D75E-6DE2-4DBC-995F-F6195374E9FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{22358045-7D3A-4A98-903A-A0B078244F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22358045-7D3A-4A98-903A-A0B078244F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22358045-7D3A-4A98-903A-A0B078244F99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A51D75E-6DE2-4DBC-995F-F6195374E9FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A51D75E-6DE2-4DBC-995F-F6195374E9FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A51D75E-6DE2-4DBC-995F-F6195374E9FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A51D75E-6DE2-4DBC-995F-F6195374E9FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
